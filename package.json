@@ -1,0 +1,50 @@
+{
+  "//1": "Axiom",
+  "//2": "Axiom",
+  "name": "Axiom",
+  "version": "0.0.1",
+  "description": "Axiom",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "adapter": "^1.0.0-beta.8",
+    "aki-api": "^6.0.8",
+    "anilewd-npm": "^1.0.4",
+    "canvas": "^2.7.0",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "croxy-api": "^2.0.3",
+    "croxydb": "^0.0.7",
+    "dblapi.js": "^2.4.1",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "jimp": "^0.12.1",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.2.3",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "wio.db": "^4.0.9",
+    "ytdl-core": "^4.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
